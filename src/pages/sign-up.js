@@ -58,6 +58,7 @@ const Form = () => {
           data-netlify-honeypot="bot-field"
         >
           <input type="hidden" name="form-name" value="waitlist" />
+          
           <div className="text-center text-4xl font-bold text-main-color leading-tight">
             Join the waitlist now!
             <h2 className="text-center text-xl font-semibold text-main-color">
